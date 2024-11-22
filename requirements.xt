@@ -1,0 +1,5 @@
+streamlit
+joblib
+scikit-learn  # Only if using sklearn-based models
+pandas        # Include if your model involves dataframes
+numpy         # Often used in model dependencies
